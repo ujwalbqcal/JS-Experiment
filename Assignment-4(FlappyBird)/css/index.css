@@ -1,0 +1,53 @@
+.start-Screen{
+  margin-left: 300px;
+  width:800px;
+  height:500px;
+  margin-top: 40px;
+  position: absolute;
+  background:url("../images/background-main.png");
+  background-repeat: no-repeat;
+  color:darkcyan;
+  text-align: center;
+  font-size: 20px;
+}
+.stop-Screen{
+  margin-left: 300px;
+  width:800px;
+  height:800px;
+  margin-top: 0px;
+  position: absolute;
+  /* background:url("../images/background-main.png"); */
+  /* background-repeat: no-repeat; */
+  color:darkcyan;
+  text-align: center;
+  font-size: 20px;
+}
+
+.container{
+  margin: 80px 150px;
+}
+.stop-Screen p{
+  font-size: 50px;
+  color: white;
+}
+.start-screen p{
+  margin-top: 10px;
+  font-size: 15px;
+  color: white;
+}
+#playbtn{
+  background-color: darkcyan;
+  border: 0px ;
+  padding:13px;
+  color: white;
+  border-radius: 5px;
+  margin-top: 325px;
+}
+#over_button{
+  background-color: darkcyan;
+  border: 0px ;
+  padding:13px;
+  color: white;
+  border-radius: 5px;
+  margin-top: 90px;
+}
